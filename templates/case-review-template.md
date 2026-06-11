@@ -1,3 +1,20 @@
+---
+case_id: CASE-YYYY-NNN
+title: 项目案例标题
+date: YYYY-MM
+status: 草稿
+case_types:
+  - 交付复盘
+customer_type: 商业化试点客户
+project_stage: 复盘完成
+owner: 百瑞团队
+related_repositories:
+  - https://github.com/example/repo
+tags:
+  - agent
+visibility: public-redacted
+---
+
 # 项目案例复盘模板
 
 ## 基本信息

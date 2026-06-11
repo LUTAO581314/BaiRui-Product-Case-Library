@@ -1,3 +1,31 @@
+---
+case_id: CASE-2026-001
+title: AI Agent 项目交付复盘：从定制交付到标准化产品平台
+date: 2026-06
+status: 初版完成
+case_types:
+  - 交付复盘
+  - 产品标准化
+customer_type: AI Agent 商业化试点客户
+project_stage: 复盘完成
+owner: 百瑞团队
+related_repositories:
+  - https://github.com/LUTAO581314/hermes-
+  - https://github.com/LUTAO581314/MOXI-cloud-agent
+tags:
+  - agent
+  - platformization
+  - standardization
+  - requirement-freeze
+  - delivery
+  - github
+  - wechat
+  - model-api
+  - deployment
+  - brand-governance
+visibility: public-redacted
+---
+
 # AI Agent 项目交付复盘：从定制交付到标准化产品平台
 
 ## 案例摘要
